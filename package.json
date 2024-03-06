@@ -11,6 +11,6 @@
     "start": "node node_modules/node-red/red.js --settings settings.js"
   },
   "engines": {
-    "node": "14.x"
+    "node": "14.21.3"
   }
 }
