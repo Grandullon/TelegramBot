@@ -21,11 +21,7 @@
  **/
 
 module.exports = {
-    functionGlobalContext: {
-        // os:require('os'),
-        telegramBotToken: process.env.TELEGRAM_BOT_TOKEN // Asegúrate de que esto coincida con la variable de entorno en Heroku
-        // Aquí puedes agregar más variables globales si es necesario
-    },
+
 /*******************************************************************************
  * Flow File and User Directory Settings
  *  - flowFile
